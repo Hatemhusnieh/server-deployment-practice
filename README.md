@@ -12,6 +12,10 @@
   - [prod](https://hatem-server-deploy-prod.herokuapp.com/)  
   - [dev](https://hatem-server-deploy-dev.herokuapp.com/)  
 
+## Pull Request
+- [PR1](https://github.com/Hatemhusnieh/server-deployment-practice/pull/1)
+- [PR2](https://github.com/Hatemhusnieh/server-deployment-practice/pull/3)
+
 ## How do I test the app or library?  
 - to test the `404` error type after the link of the app `/` and then any thing like: `sand`, `roro`, `etc`
 - to test the `500` error type `bad` after the app link 
