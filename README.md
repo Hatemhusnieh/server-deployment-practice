@@ -9,7 +9,8 @@
 1. run the app
 
 - You can check the app through the following link
-  - [URL](https://hatem-server-deploy-prod.herokuapp.com/)  
+  - [prod](https://hatem-server-deploy-prod.herokuapp.com/)  
+  - [dev](https://hatem-server-deploy-dev.herokuapp.com/)  
 
 ## How do I test the app or library?  
 - to test the `404` error type after the link of the app `/` and then any thing like: `sand`, `roro`, `etc`
@@ -18,4 +19,5 @@ ex) `http://localhost:3000/bad` or `https://hatem-server-deploy-prod.herokuapp.c
 - to test any errors type at your terminal `npm run lint`
 - to test errors type at your terminal `npm test`
 
-
+## UML    
+![server-deployment-practice](server-deployment-practice.jpg)
